@@ -1,10 +1,10 @@
 # Somatório de Divisíveis de 3 e 5
 
-Este é um desafio técnico. Tem o intuito simples de calcular o somatório de todos os números inteiros positivos que são divisíveis por 3 ou 5 e são menores que um número fornecido.
+Este desafio técnico tem o intuito simples, de calcular o somatório de todos os números inteiros positivos que são divisíveis por 3 ou 5 e são menores que um número fornecido.
 
 ## Como rodar o projeto
 
-1. Clone o repositório para o seu ambiente local:
+1. Clone o repositório para o seu computador local:
 
    ```bash
    git clone https://github.com/jacks0nsilva/Desafio-Tecnico-Escribo.git
